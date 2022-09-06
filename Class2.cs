@@ -11,6 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Mai Thi Ly !");
+             Console.WriteLine("Mai Thi Ly da them dong nay!");
         }
     }
 }
